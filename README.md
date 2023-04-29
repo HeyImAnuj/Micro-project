@@ -20,14 +20,14 @@ Version 1.0 - Initial release (April 29, 2023)
 
 # Table of Contents:
 
-Installation
-Usage
-Features
-Technologies Used
-Future Work
-Contributions
-License
-Installation:
+* Installation
+* Usage
+* Features
+* Technologies Used
+* Future Work
+* Contributions
+* License
+* Installation:
 
 # Download or clone the project from Github.
 Extract the files to a folder in your web server directory (e.g. htdocs in XAMPP).
